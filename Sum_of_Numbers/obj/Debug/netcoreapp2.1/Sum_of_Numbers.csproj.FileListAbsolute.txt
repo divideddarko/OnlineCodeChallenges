@@ -1,0 +1,11 @@
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\Sum_of_Numbers\obj\Debug\netcoreapp2.1\Sum_of_Numbers.csprojAssemblyReference.cache
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\Sum_of_Numbers\obj\Debug\netcoreapp2.1\Sum_of_Numbers.csproj.CoreCompileInputs.cache
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\Sum_of_Numbers\obj\Debug\netcoreapp2.1\Sum_of_Numbers.AssemblyInfoInputs.cache
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\Sum_of_Numbers\obj\Debug\netcoreapp2.1\Sum_of_Numbers.AssemblyInfo.cs
+C:\Users\divid\Documents\GIT\CSharp\CodeWars\Sum_of_Numbers\bin\Debug\netcoreapp2.1\Sum_of_Numbers.deps.json
+C:\Users\divid\Documents\GIT\CSharp\CodeWars\Sum_of_Numbers\bin\Debug\netcoreapp2.1\Sum_of_Numbers.runtimeconfig.json
+C:\Users\divid\Documents\GIT\CSharp\CodeWars\Sum_of_Numbers\bin\Debug\netcoreapp2.1\Sum_of_Numbers.runtimeconfig.dev.json
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\Sum_of_Numbers\bin\Debug\netcoreapp2.1\Sum_of_Numbers.dll
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\Sum_of_Numbers\bin\Debug\netcoreapp2.1\Sum_of_Numbers.pdb
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\Sum_of_Numbers\obj\Debug\netcoreapp2.1\Sum_of_Numbers.dll
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\Sum_of_Numbers\obj\Debug\netcoreapp2.1\Sum_of_Numbers.pdb
