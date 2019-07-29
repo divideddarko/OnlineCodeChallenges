@@ -1,0 +1,11 @@
+C:\Users\divid\Documents\GIT\CSharp\CodeWars\Persistent_Bugger\bin\Debug\netcoreapp2.1\Persistent_Bugger.deps.json
+C:\Users\divid\Documents\GIT\CSharp\CodeWars\Persistent_Bugger\bin\Debug\netcoreapp2.1\Persistent_Bugger.runtimeconfig.json
+C:\Users\divid\Documents\GIT\CSharp\CodeWars\Persistent_Bugger\bin\Debug\netcoreapp2.1\Persistent_Bugger.runtimeconfig.dev.json
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\Persistent_Bugger\bin\Debug\netcoreapp2.1\Persistent_Bugger.dll
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\Persistent_Bugger\bin\Debug\netcoreapp2.1\Persistent_Bugger.pdb
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\Persistent_Bugger\obj\Debug\netcoreapp2.1\Persistent_Bugger.csprojAssemblyReference.cache
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\Persistent_Bugger\obj\Debug\netcoreapp2.1\Persistent_Bugger.csproj.CoreCompileInputs.cache
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\Persistent_Bugger\obj\Debug\netcoreapp2.1\Persistent_Bugger.AssemblyInfoInputs.cache
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\Persistent_Bugger\obj\Debug\netcoreapp2.1\Persistent_Bugger.AssemblyInfo.cs
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\Persistent_Bugger\obj\Debug\netcoreapp2.1\Persistent_Bugger.dll
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\Persistent_Bugger\obj\Debug\netcoreapp2.1\Persistent_Bugger.pdb
