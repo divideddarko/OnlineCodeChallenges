@@ -1,0 +1,11 @@
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\Highest_Lowest\obj\Debug\netcoreapp2.1\Highest_Lowest.csprojAssemblyReference.cache
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\Highest_Lowest\obj\Debug\netcoreapp2.1\Highest_Lowest.csproj.CoreCompileInputs.cache
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\Highest_Lowest\obj\Debug\netcoreapp2.1\Highest_Lowest.AssemblyInfoInputs.cache
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\Highest_Lowest\obj\Debug\netcoreapp2.1\Highest_Lowest.AssemblyInfo.cs
+C:\Users\divid\Documents\GIT\CSharp\CodeWars\Highest_Lowest\bin\Debug\netcoreapp2.1\Highest_Lowest.deps.json
+C:\Users\divid\Documents\GIT\CSharp\CodeWars\Highest_Lowest\bin\Debug\netcoreapp2.1\Highest_Lowest.runtimeconfig.json
+C:\Users\divid\Documents\GIT\CSharp\CodeWars\Highest_Lowest\bin\Debug\netcoreapp2.1\Highest_Lowest.runtimeconfig.dev.json
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\Highest_Lowest\bin\Debug\netcoreapp2.1\Highest_Lowest.dll
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\Highest_Lowest\bin\Debug\netcoreapp2.1\Highest_Lowest.pdb
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\Highest_Lowest\obj\Debug\netcoreapp2.1\Highest_Lowest.dll
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\Highest_Lowest\obj\Debug\netcoreapp2.1\Highest_Lowest.pdb
