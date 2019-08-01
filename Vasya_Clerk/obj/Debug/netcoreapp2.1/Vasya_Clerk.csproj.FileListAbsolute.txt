@@ -1,0 +1,11 @@
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\Vasya_Clerk\obj\Debug\netcoreapp2.1\Vasya_Clerk.csprojAssemblyReference.cache
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\Vasya_Clerk\obj\Debug\netcoreapp2.1\Vasya_Clerk.csproj.CoreCompileInputs.cache
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\Vasya_Clerk\obj\Debug\netcoreapp2.1\Vasya_Clerk.AssemblyInfoInputs.cache
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\Vasya_Clerk\obj\Debug\netcoreapp2.1\Vasya_Clerk.AssemblyInfo.cs
+C:\Users\divid\Documents\GIT\CSharp\CodeWars\Vasya_Clerk\bin\Debug\netcoreapp2.1\Vasya_Clerk.deps.json
+C:\Users\divid\Documents\GIT\CSharp\CodeWars\Vasya_Clerk\bin\Debug\netcoreapp2.1\Vasya_Clerk.runtimeconfig.json
+C:\Users\divid\Documents\GIT\CSharp\CodeWars\Vasya_Clerk\bin\Debug\netcoreapp2.1\Vasya_Clerk.runtimeconfig.dev.json
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\Vasya_Clerk\bin\Debug\netcoreapp2.1\Vasya_Clerk.dll
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\Vasya_Clerk\bin\Debug\netcoreapp2.1\Vasya_Clerk.pdb
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\Vasya_Clerk\obj\Debug\netcoreapp2.1\Vasya_Clerk.dll
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\Vasya_Clerk\obj\Debug\netcoreapp2.1\Vasya_Clerk.pdb

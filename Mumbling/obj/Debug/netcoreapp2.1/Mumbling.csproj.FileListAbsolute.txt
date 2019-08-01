@@ -1,0 +1,11 @@
+C:\Users\divid\Documents\GIT\CSharp\CodeWars\Mumbling\bin\Debug\netcoreapp2.1\Mumbling.deps.json
+C:\Users\divid\Documents\GIT\CSharp\CodeWars\Mumbling\bin\Debug\netcoreapp2.1\Mumbling.runtimeconfig.json
+C:\Users\divid\Documents\GIT\CSharp\CodeWars\Mumbling\bin\Debug\netcoreapp2.1\Mumbling.runtimeconfig.dev.json
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\Mumbling\bin\Debug\netcoreapp2.1\Mumbling.dll
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\Mumbling\bin\Debug\netcoreapp2.1\Mumbling.pdb
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\Mumbling\obj\Debug\netcoreapp2.1\Mumbling.csprojAssemblyReference.cache
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\Mumbling\obj\Debug\netcoreapp2.1\Mumbling.csproj.CoreCompileInputs.cache
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\Mumbling\obj\Debug\netcoreapp2.1\Mumbling.AssemblyInfoInputs.cache
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\Mumbling\obj\Debug\netcoreapp2.1\Mumbling.AssemblyInfo.cs
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\Mumbling\obj\Debug\netcoreapp2.1\Mumbling.dll
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\Mumbling\obj\Debug\netcoreapp2.1\Mumbling.pdb
