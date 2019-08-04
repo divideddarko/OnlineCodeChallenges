@@ -1,0 +1,11 @@
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\Array_Diff\obj\Debug\netcoreapp2.1\Array_Diff.csprojAssemblyReference.cache
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\Array_Diff\obj\Debug\netcoreapp2.1\Array_Diff.csproj.CoreCompileInputs.cache
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\Array_Diff\obj\Debug\netcoreapp2.1\Array_Diff.AssemblyInfoInputs.cache
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\Array_Diff\obj\Debug\netcoreapp2.1\Array_Diff.AssemblyInfo.cs
+C:\Users\divid\Documents\GIT\CSharp\CodeWars\Array_Diff\bin\Debug\netcoreapp2.1\Array_Diff.deps.json
+C:\Users\divid\Documents\GIT\CSharp\CodeWars\Array_Diff\bin\Debug\netcoreapp2.1\Array_Diff.runtimeconfig.json
+C:\Users\divid\Documents\GIT\CSharp\CodeWars\Array_Diff\bin\Debug\netcoreapp2.1\Array_Diff.runtimeconfig.dev.json
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\Array_Diff\bin\Debug\netcoreapp2.1\Array_Diff.dll
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\Array_Diff\bin\Debug\netcoreapp2.1\Array_Diff.pdb
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\Array_Diff\obj\Debug\netcoreapp2.1\Array_Diff.dll
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\Array_Diff\obj\Debug\netcoreapp2.1\Array_Diff.pdb
