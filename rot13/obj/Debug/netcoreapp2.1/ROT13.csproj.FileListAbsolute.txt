@@ -1,0 +1,11 @@
+C:\Users\divid\Documents\GIT\CSharp\CodeWars\ROT13\bin\Debug\netcoreapp2.1\ROT13.deps.json
+C:\Users\divid\Documents\GIT\CSharp\CodeWars\ROT13\bin\Debug\netcoreapp2.1\ROT13.runtimeconfig.json
+C:\Users\divid\Documents\GIT\CSharp\CodeWars\ROT13\bin\Debug\netcoreapp2.1\ROT13.runtimeconfig.dev.json
+C:\Users\divid\Documents\GIT\CSharp\CodeWars\ROT13\bin\Debug\netcoreapp2.1\ROT13.dll
+C:\Users\divid\Documents\GIT\CSharp\CodeWars\ROT13\bin\Debug\netcoreapp2.1\ROT13.pdb
+C:\Users\divid\Documents\GIT\CSharp\CodeWars\ROT13\obj\Debug\netcoreapp2.1\ROT13.csprojAssemblyReference.cache
+C:\Users\divid\Documents\GIT\CSharp\CodeWars\ROT13\obj\Debug\netcoreapp2.1\ROT13.csproj.CoreCompileInputs.cache
+C:\Users\divid\Documents\GIT\CSharp\CodeWars\ROT13\obj\Debug\netcoreapp2.1\ROT13.AssemblyInfoInputs.cache
+C:\Users\divid\Documents\GIT\CSharp\CodeWars\ROT13\obj\Debug\netcoreapp2.1\ROT13.AssemblyInfo.cs
+C:\Users\divid\Documents\GIT\CSharp\CodeWars\ROT13\obj\Debug\netcoreapp2.1\ROT13.dll
+C:\Users\divid\Documents\GIT\CSharp\CodeWars\ROT13\obj\Debug\netcoreapp2.1\ROT13.pdb
