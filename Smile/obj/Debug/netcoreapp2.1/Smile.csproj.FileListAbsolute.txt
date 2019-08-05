@@ -1,0 +1,4 @@
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\Smile\obj\Debug\netcoreapp2.1\Smile.csprojAssemblyReference.cache
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\Smile\obj\Debug\netcoreapp2.1\Smile.csproj.CoreCompileInputs.cache
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\Smile\obj\Debug\netcoreapp2.1\Smile.AssemblyInfoInputs.cache
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\Smile\obj\Debug\netcoreapp2.1\Smile.AssemblyInfo.cs
