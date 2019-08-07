@@ -1,0 +1,11 @@
+C:\Users\divid\Documents\GIT\CSharp\CodeWars\x_and_o\bin\Debug\netcoreapp2.1\x_and_o.deps.json
+C:\Users\divid\Documents\GIT\CSharp\CodeWars\x_and_o\bin\Debug\netcoreapp2.1\x_and_o.runtimeconfig.json
+C:\Users\divid\Documents\GIT\CSharp\CodeWars\x_and_o\bin\Debug\netcoreapp2.1\x_and_o.runtimeconfig.dev.json
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\x_and_o\bin\Debug\netcoreapp2.1\x_and_o.dll
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\x_and_o\bin\Debug\netcoreapp2.1\x_and_o.pdb
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\x_and_o\obj\Debug\netcoreapp2.1\x_and_o.csprojAssemblyReference.cache
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\x_and_o\obj\Debug\netcoreapp2.1\x_and_o.csproj.CoreCompileInputs.cache
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\x_and_o\obj\Debug\netcoreapp2.1\x_and_o.AssemblyInfoInputs.cache
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\x_and_o\obj\Debug\netcoreapp2.1\x_and_o.AssemblyInfo.cs
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\x_and_o\obj\Debug\netcoreapp2.1\x_and_o.dll
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\x_and_o\obj\Debug\netcoreapp2.1\x_and_o.pdb
