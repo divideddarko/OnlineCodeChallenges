@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\divid\\Documents\\GIT\\CSharp\\CodeWars\\The Coupon Code\\The Coupon Code.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\divid\\Documents\\GIT\\CSharp\\CodeWars\\The Coupon Code\\The Coupon Code.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\divid\\Documents\\GIT\\CSharp\\CodeWars\\The Coupon Code\\The Coupon Code.csproj",
+        "projectName": "The Coupon Code",
+        "projectPath": "C:\\Users\\divid\\Documents\\GIT\\CSharp\\CodeWars\\The Coupon Code\\The Coupon Code.csproj",
+        "packagesPath": "C:\\Users\\divid\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\divid\\Documents\\GIT\\CSharp\\CodeWars\\The Coupon Code\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\divid\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

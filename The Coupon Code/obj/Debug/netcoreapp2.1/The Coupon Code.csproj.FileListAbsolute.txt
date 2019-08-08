@@ -1,0 +1,11 @@
+C:\Users\divid\Documents\GIT\CSharp\CodeWars\The Coupon Code\bin\Debug\netcoreapp2.1\The Coupon Code.deps.json
+C:\Users\divid\Documents\GIT\CSharp\CodeWars\The Coupon Code\bin\Debug\netcoreapp2.1\The Coupon Code.runtimeconfig.json
+C:\Users\divid\Documents\GIT\CSharp\CodeWars\The Coupon Code\bin\Debug\netcoreapp2.1\The Coupon Code.runtimeconfig.dev.json
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\The Coupon Code\bin\Debug\netcoreapp2.1\The Coupon Code.dll
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\The Coupon Code\bin\Debug\netcoreapp2.1\The Coupon Code.pdb
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\The Coupon Code\obj\Debug\netcoreapp2.1\The Coupon Code.csprojAssemblyReference.cache
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\The Coupon Code\obj\Debug\netcoreapp2.1\The Coupon Code.csproj.CoreCompileInputs.cache
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\The Coupon Code\obj\Debug\netcoreapp2.1\The Coupon Code.AssemblyInfoInputs.cache
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\The Coupon Code\obj\Debug\netcoreapp2.1\The Coupon Code.AssemblyInfo.cs
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\The Coupon Code\obj\Debug\netcoreapp2.1\The Coupon Code.dll
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\The Coupon Code\obj\Debug\netcoreapp2.1\The Coupon Code.pdb
