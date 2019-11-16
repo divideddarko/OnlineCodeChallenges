@@ -1,0 +1,11 @@
+C:\Users\divid\Documents\GIT\CSharp\CodeWars\squaredigit\bin\Debug\netcoreapp2.1\squaredigit.deps.json
+C:\Users\divid\Documents\GIT\CSharp\CodeWars\squaredigit\bin\Debug\netcoreapp2.1\squaredigit.runtimeconfig.json
+C:\Users\divid\Documents\GIT\CSharp\CodeWars\squaredigit\bin\Debug\netcoreapp2.1\squaredigit.runtimeconfig.dev.json
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\squaredigit\bin\Debug\netcoreapp2.1\squaredigit.dll
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\squaredigit\bin\Debug\netcoreapp2.1\squaredigit.pdb
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\squaredigit\obj\Debug\netcoreapp2.1\squaredigit.csprojAssemblyReference.cache
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\squaredigit\obj\Debug\netcoreapp2.1\squaredigit.csproj.CoreCompileInputs.cache
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\squaredigit\obj\Debug\netcoreapp2.1\squaredigit.AssemblyInfoInputs.cache
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\squaredigit\obj\Debug\netcoreapp2.1\squaredigit.AssemblyInfo.cs
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\squaredigit\obj\Debug\netcoreapp2.1\squaredigit.dll
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\squaredigit\obj\Debug\netcoreapp2.1\squaredigit.pdb

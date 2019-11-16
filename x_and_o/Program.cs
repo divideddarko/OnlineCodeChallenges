@@ -48,7 +48,7 @@ namespace x_and_o
                     result = true;
                }
 
-               return result; //Code it!
+               return result;
           }
      }
 }

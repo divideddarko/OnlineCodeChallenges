@@ -21,6 +21,7 @@ namespace ROT13
                     int numeric = letter + 13;
 
                     Regex rgx = new Regex("[a-z]");
+                    Regex rgxUpper = new Regex("[A-Z]");
                     String l = Convert.ToString(letter);
                     if (rgx.IsMatch(l))
                     {
@@ -38,7 +39,7 @@ namespace ROT13
                               newString += a.ToString();
                          }
                     }
-                    else
+                    else if (rgxUpper.IsMatch(l))
                     {
                          if (numeric > 90)
                          {
@@ -52,6 +53,8 @@ namespace ROT13
                               char a = (char)numeric;
                               newString += a.ToString();
                          }
+                    } else {
+                         newString += l;
                     }
 
                }

@@ -1,0 +1,11 @@
+C:\Users\divid\Documents\GIT\CSharp\CodeWars\Directions_Reduction\bin\Debug\netcoreapp2.1\Directions_Reduction.deps.json
+C:\Users\divid\Documents\GIT\CSharp\CodeWars\Directions_Reduction\bin\Debug\netcoreapp2.1\Directions_Reduction.runtimeconfig.json
+C:\Users\divid\Documents\GIT\CSharp\CodeWars\Directions_Reduction\bin\Debug\netcoreapp2.1\Directions_Reduction.runtimeconfig.dev.json
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\Directions_Reduction\bin\Debug\netcoreapp2.1\Directions_Reduction.dll
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\Directions_Reduction\bin\Debug\netcoreapp2.1\Directions_Reduction.pdb
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\Directions_Reduction\obj\Debug\netcoreapp2.1\Directions_Reduction.csprojAssemblyReference.cache
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\Directions_Reduction\obj\Debug\netcoreapp2.1\Directions_Reduction.csproj.CoreCompileInputs.cache
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\Directions_Reduction\obj\Debug\netcoreapp2.1\Directions_Reduction.AssemblyInfoInputs.cache
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\Directions_Reduction\obj\Debug\netcoreapp2.1\Directions_Reduction.AssemblyInfo.cs
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\Directions_Reduction\obj\Debug\netcoreapp2.1\Directions_Reduction.dll
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\Directions_Reduction\obj\Debug\netcoreapp2.1\Directions_Reduction.pdb

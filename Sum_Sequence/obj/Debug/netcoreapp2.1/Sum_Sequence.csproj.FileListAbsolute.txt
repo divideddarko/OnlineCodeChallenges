@@ -1,0 +1,11 @@
+C:\Users\divid\Documents\GIT\CSharp\CodeWars\Sum_Sequence\bin\Debug\netcoreapp2.1\Sum_Sequence.deps.json
+C:\Users\divid\Documents\GIT\CSharp\CodeWars\Sum_Sequence\bin\Debug\netcoreapp2.1\Sum_Sequence.runtimeconfig.json
+C:\Users\divid\Documents\GIT\CSharp\CodeWars\Sum_Sequence\bin\Debug\netcoreapp2.1\Sum_Sequence.runtimeconfig.dev.json
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\Sum_Sequence\bin\Debug\netcoreapp2.1\Sum_Sequence.dll
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\Sum_Sequence\bin\Debug\netcoreapp2.1\Sum_Sequence.pdb
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\Sum_Sequence\obj\Debug\netcoreapp2.1\Sum_Sequence.csprojAssemblyReference.cache
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\Sum_Sequence\obj\Debug\netcoreapp2.1\Sum_Sequence.csproj.CoreCompileInputs.cache
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\Sum_Sequence\obj\Debug\netcoreapp2.1\Sum_Sequence.AssemblyInfoInputs.cache
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\Sum_Sequence\obj\Debug\netcoreapp2.1\Sum_Sequence.AssemblyInfo.cs
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\Sum_Sequence\obj\Debug\netcoreapp2.1\Sum_Sequence.dll
+c:\Users\divid\Documents\GIT\CSharp\CodeWars\Sum_Sequence\obj\Debug\netcoreapp2.1\Sum_Sequence.pdb
