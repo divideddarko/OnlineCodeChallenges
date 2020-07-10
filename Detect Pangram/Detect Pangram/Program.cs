@@ -5,7 +5,7 @@ namespace Detect_Pangram
 {
     class Program
     {
-        protected static string str { get; } = "Hello World";
+        protected static string str { get; } = "The quick brown fox jumps over the lazy dog";
         static void Main(string[] args)
         {
             bool results = CheckPangram();

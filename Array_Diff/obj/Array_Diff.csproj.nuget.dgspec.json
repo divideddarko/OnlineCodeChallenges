@@ -1,24 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\divid\\Documents\\GIT\\CSharp\\CodeWars\\Array_Diff\\Array_Diff.csproj": {}
+    "g:\\GIT\\CSharp\\CodeWars\\Array_Diff\\Array_Diff.csproj": {}
   },
   "projects": {
-    "C:\\Users\\divid\\Documents\\GIT\\CSharp\\CodeWars\\Array_Diff\\Array_Diff.csproj": {
+    "g:\\GIT\\CSharp\\CodeWars\\Array_Diff\\Array_Diff.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\divid\\Documents\\GIT\\CSharp\\CodeWars\\Array_Diff\\Array_Diff.csproj",
+        "projectUniqueName": "g:\\GIT\\CSharp\\CodeWars\\Array_Diff\\Array_Diff.csproj",
         "projectName": "Array_Diff",
-        "projectPath": "C:\\Users\\divid\\Documents\\GIT\\CSharp\\CodeWars\\Array_Diff\\Array_Diff.csproj",
+        "projectPath": "g:\\GIT\\CSharp\\CodeWars\\Array_Diff\\Array_Diff.csproj",
         "packagesPath": "C:\\Users\\divid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\divid\\Documents\\GIT\\CSharp\\CodeWars\\Array_Diff\\obj\\",
+        "outputPath": "g:\\GIT\\CSharp\\CodeWars\\Array_Diff\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\divid\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.1"
@@ -42,16 +44,23 @@
         "netcoreapp2.1": {
           "dependencies": {
             "Microsoft.NETCore.App": {
+              "suppressParent": "All",
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

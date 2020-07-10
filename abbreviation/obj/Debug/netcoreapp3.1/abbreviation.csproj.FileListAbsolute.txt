@@ -1,0 +1,11 @@
+G:\GIT\CSharp\CodeWars\abbreviation\obj\Debug\netcoreapp3.1\abbreviation.csprojAssemblyReference.cache
+G:\GIT\CSharp\CodeWars\abbreviation\obj\Debug\netcoreapp3.1\abbreviation.AssemblyInfoInputs.cache
+G:\GIT\CSharp\CodeWars\abbreviation\obj\Debug\netcoreapp3.1\abbreviation.AssemblyInfo.cs
+G:\GIT\CSharp\CodeWars\abbreviation\bin\Debug\netcoreapp3.1\abbreviation.exe
+G:\GIT\CSharp\CodeWars\abbreviation\bin\Debug\netcoreapp3.1\abbreviation.deps.json
+G:\GIT\CSharp\CodeWars\abbreviation\bin\Debug\netcoreapp3.1\abbreviation.runtimeconfig.json
+G:\GIT\CSharp\CodeWars\abbreviation\bin\Debug\netcoreapp3.1\abbreviation.runtimeconfig.dev.json
+G:\GIT\CSharp\CodeWars\abbreviation\bin\Debug\netcoreapp3.1\abbreviation.dll
+G:\GIT\CSharp\CodeWars\abbreviation\bin\Debug\netcoreapp3.1\abbreviation.pdb
+G:\GIT\CSharp\CodeWars\abbreviation\obj\Debug\netcoreapp3.1\abbreviation.dll
+G:\GIT\CSharp\CodeWars\abbreviation\obj\Debug\netcoreapp3.1\abbreviation.pdb

@@ -9,3 +9,14 @@ C:\Users\divid\Documents\GIT\CSharp\CodeWars\Detect Pangram\Detect Pangram\obj\D
 C:\Users\divid\Documents\GIT\CSharp\CodeWars\Detect Pangram\Detect Pangram\obj\Debug\netcoreapp3.0\Detect Pangram.AssemblyInfo.cs
 C:\Users\divid\Documents\GIT\CSharp\CodeWars\Detect Pangram\Detect Pangram\obj\Debug\netcoreapp3.0\Detect Pangram.dll
 C:\Users\divid\Documents\GIT\CSharp\CodeWars\Detect Pangram\Detect Pangram\obj\Debug\netcoreapp3.0\Detect Pangram.pdb
+G:\GIT\CSharp\CodeWars\Detect Pangram\Detect Pangram\bin\Debug\netcoreapp3.0\Detect Pangram.exe
+G:\GIT\CSharp\CodeWars\Detect Pangram\Detect Pangram\bin\Debug\netcoreapp3.0\Detect Pangram.deps.json
+G:\GIT\CSharp\CodeWars\Detect Pangram\Detect Pangram\bin\Debug\netcoreapp3.0\Detect Pangram.runtimeconfig.json
+G:\GIT\CSharp\CodeWars\Detect Pangram\Detect Pangram\bin\Debug\netcoreapp3.0\Detect Pangram.runtimeconfig.dev.json
+G:\GIT\CSharp\CodeWars\Detect Pangram\Detect Pangram\bin\Debug\netcoreapp3.0\Detect Pangram.dll
+G:\GIT\CSharp\CodeWars\Detect Pangram\Detect Pangram\bin\Debug\netcoreapp3.0\Detect Pangram.pdb
+G:\GIT\CSharp\CodeWars\Detect Pangram\Detect Pangram\obj\Debug\netcoreapp3.0\Detect Pangram.csprojAssemblyReference.cache
+G:\GIT\CSharp\CodeWars\Detect Pangram\Detect Pangram\obj\Debug\netcoreapp3.0\Detect Pangram.AssemblyInfoInputs.cache
+G:\GIT\CSharp\CodeWars\Detect Pangram\Detect Pangram\obj\Debug\netcoreapp3.0\Detect Pangram.AssemblyInfo.cs
+G:\GIT\CSharp\CodeWars\Detect Pangram\Detect Pangram\obj\Debug\netcoreapp3.0\Detect Pangram.dll
+G:\GIT\CSharp\CodeWars\Detect Pangram\Detect Pangram\obj\Debug\netcoreapp3.0\Detect Pangram.pdb
