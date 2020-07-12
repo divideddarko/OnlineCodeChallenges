@@ -1,0 +1,11 @@
+G:\GIT\CSharp\CodeWars\Reverse_Number\reverse\obj\Debug\netcoreapp3.1\reverse.csprojAssemblyReference.cache
+G:\GIT\CSharp\CodeWars\Reverse_Number\reverse\obj\Debug\netcoreapp3.1\reverse.AssemblyInfoInputs.cache
+G:\GIT\CSharp\CodeWars\Reverse_Number\reverse\obj\Debug\netcoreapp3.1\reverse.AssemblyInfo.cs
+G:\GIT\CSharp\CodeWars\Reverse_Number\reverse\bin\Debug\netcoreapp3.1\reverse.exe
+G:\GIT\CSharp\CodeWars\Reverse_Number\reverse\bin\Debug\netcoreapp3.1\reverse.deps.json
+G:\GIT\CSharp\CodeWars\Reverse_Number\reverse\bin\Debug\netcoreapp3.1\reverse.runtimeconfig.json
+G:\GIT\CSharp\CodeWars\Reverse_Number\reverse\bin\Debug\netcoreapp3.1\reverse.runtimeconfig.dev.json
+G:\GIT\CSharp\CodeWars\Reverse_Number\reverse\bin\Debug\netcoreapp3.1\reverse.dll
+G:\GIT\CSharp\CodeWars\Reverse_Number\reverse\bin\Debug\netcoreapp3.1\reverse.pdb
+G:\GIT\CSharp\CodeWars\Reverse_Number\reverse\obj\Debug\netcoreapp3.1\reverse.dll
+G:\GIT\CSharp\CodeWars\Reverse_Number\reverse\obj\Debug\netcoreapp3.1\reverse.pdb
