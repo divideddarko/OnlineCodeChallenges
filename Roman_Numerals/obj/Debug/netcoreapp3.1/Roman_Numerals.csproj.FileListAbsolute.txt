@@ -1,0 +1,11 @@
+G:\GIT\CSharp\CodeWars\Roman_Numerals\obj\Debug\netcoreapp3.1\Roman_Numerals.csprojAssemblyReference.cache
+G:\GIT\CSharp\CodeWars\Roman_Numerals\obj\Debug\netcoreapp3.1\Roman_Numerals.AssemblyInfoInputs.cache
+G:\GIT\CSharp\CodeWars\Roman_Numerals\obj\Debug\netcoreapp3.1\Roman_Numerals.AssemblyInfo.cs
+G:\GIT\CSharp\CodeWars\Roman_Numerals\bin\Debug\netcoreapp3.1\Roman_Numerals.exe
+G:\GIT\CSharp\CodeWars\Roman_Numerals\bin\Debug\netcoreapp3.1\Roman_Numerals.deps.json
+G:\GIT\CSharp\CodeWars\Roman_Numerals\bin\Debug\netcoreapp3.1\Roman_Numerals.runtimeconfig.json
+G:\GIT\CSharp\CodeWars\Roman_Numerals\bin\Debug\netcoreapp3.1\Roman_Numerals.runtimeconfig.dev.json
+G:\GIT\CSharp\CodeWars\Roman_Numerals\bin\Debug\netcoreapp3.1\Roman_Numerals.dll
+G:\GIT\CSharp\CodeWars\Roman_Numerals\bin\Debug\netcoreapp3.1\Roman_Numerals.pdb
+G:\GIT\CSharp\CodeWars\Roman_Numerals\obj\Debug\netcoreapp3.1\Roman_Numerals.dll
+G:\GIT\CSharp\CodeWars\Roman_Numerals\obj\Debug\netcoreapp3.1\Roman_Numerals.pdb
