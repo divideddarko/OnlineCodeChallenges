@@ -1,0 +1,11 @@
+G:\GIT\CSharp\CodeWars\Search Insert Position\obj\Debug\netcoreapp3.1\Search Insert Position.csprojAssemblyReference.cache
+G:\GIT\CSharp\CodeWars\Search Insert Position\obj\Debug\netcoreapp3.1\Search Insert Position.AssemblyInfoInputs.cache
+G:\GIT\CSharp\CodeWars\Search Insert Position\obj\Debug\netcoreapp3.1\Search Insert Position.AssemblyInfo.cs
+G:\GIT\CSharp\CodeWars\Search Insert Position\bin\Debug\netcoreapp3.1\Search Insert Position.exe
+G:\GIT\CSharp\CodeWars\Search Insert Position\bin\Debug\netcoreapp3.1\Search Insert Position.deps.json
+G:\GIT\CSharp\CodeWars\Search Insert Position\bin\Debug\netcoreapp3.1\Search Insert Position.runtimeconfig.json
+G:\GIT\CSharp\CodeWars\Search Insert Position\bin\Debug\netcoreapp3.1\Search Insert Position.runtimeconfig.dev.json
+G:\GIT\CSharp\CodeWars\Search Insert Position\bin\Debug\netcoreapp3.1\Search Insert Position.dll
+G:\GIT\CSharp\CodeWars\Search Insert Position\bin\Debug\netcoreapp3.1\Search Insert Position.pdb
+G:\GIT\CSharp\CodeWars\Search Insert Position\obj\Debug\netcoreapp3.1\Search Insert Position.dll
+G:\GIT\CSharp\CodeWars\Search Insert Position\obj\Debug\netcoreapp3.1\Search Insert Position.pdb
